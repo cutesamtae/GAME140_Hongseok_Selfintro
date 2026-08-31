@@ -2,7 +2,6 @@ const string name = "Hongseok Kim";
 const string interestingFact = "I already learned Data Structures in C language";
 const string book = "Metropolis";
 int year = 2007;
-//DateTime date = DateTime.Now;
 
 //print myname
 Console.WriteLine($"Hello, My name is {name}.");

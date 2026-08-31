@@ -16,5 +16,6 @@ Console.WriteLine($"An Interesting Fact About Me is {interestingFact}.\nMy favor
 //print date
 Console.WriteLine($"Today is {DateTime.Now}.");
 
+//print exit_key
 Console.WriteLine("Press any key to exit...");
 Console.ReadKey();
